@@ -1,0 +1,10 @@
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\bin\Release\ejecutabledllc#.exe.config
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\bin\Release\ejecutabledllc#.exe
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\bin\Release\ejecutabledllc#.pdb
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\bin\Release\encryptfilesc#.dll
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\bin\Release\encryptfilesc#.pdb
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\obj\Release\ejecutabledllc#.csproj.AssemblyReference.cache
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\obj\Release\ejecutabledllc#.csproj.CoreCompileInputs.cache
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\obj\Release\ejecutabledllc#.csproj.CopyComplete
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\obj\Release\ejecutabledllc#.exe
+C:\Users\capr9\Desktop\Materias\URU\URU-2023C\Seguridad Informatica\Proyecto3\ejecutabledllc#\ejecutabledllc#\obj\Release\ejecutabledllc#.pdb
